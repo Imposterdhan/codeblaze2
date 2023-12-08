@@ -86,7 +86,7 @@ p {
 }
 
 .back {
-  background-image: url("../public/images/back.webp");
+  background-image: url("https://img.freepik.com/free-photo/cute-smiling-girl-student-holding-notebooks-looking-cheerful-camera-studying-college-un_1258-117416.jpg?w=1060&t=st=1698491656~exp=1698492256~hmac=5e05c60305e6888a747f993a346bdec09060d6a330cffa11eda7cac1a5828274");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
